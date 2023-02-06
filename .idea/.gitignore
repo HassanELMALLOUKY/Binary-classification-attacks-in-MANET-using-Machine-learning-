@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Hassan EL\Desktop\Intrusion-Detection-MANET-with-machine-Learning-master\Intrusion-Detection-with-machine-Learning-master\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
